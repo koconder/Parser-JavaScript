@@ -41,7 +41,7 @@
     "code": "^4.1.0",
     "codecov": "^2.3.1",
     "eslint": "^4.18.2",
-    "eslint-config-google": "^0.8.0",
+    "eslint-config-google": "^0.9.1",
     "husky": "^0.14.1",
     "istanbul": "^0.4.5",
     "lab": "^14.3.2",
