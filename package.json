@@ -38,7 +38,7 @@
   "license": "MIT",
   "devDependencies": {
     "codacy-coverage": "^2.1.0",
-    "code": "^4.1.0",
+    "code": "^5.2.4",
     "codecov": "^3.1.0",
     "eslint": "^5.12.1",
     "eslint-config-google": "^0.8.0",
